@@ -29,12 +29,17 @@ I am following the **Telusko Java course** and using this repository to keep tra
 
 ## Learning Progress
 
+### Core Java
+
 | Lecture | Topic                | Status |
 | ------- | -------------------- | ------ |
 | 2.3     | First Code in JShell | ✅      |
 | 2.4     | How Java Works       | ✅      |
 | 2.5     | Variables            | ✅      |
 | 2.6     | Data Types           | ✅      |
+| 2.7     | Literals             | ✅      |
+| 2.8     | Type Conversion      | ✅      |
+
 
 I will continue updating this repository as I progress through the course.
 
