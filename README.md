@@ -39,7 +39,13 @@ I am following the **Telusko Java course** and using this repository to keep tra
 | 2.6     | Data Types           | ✅      |
 | 2.7     | Literals             | ✅      |
 | 2.8     | Type Conversion      | ✅      |
-
+| 2.9     | Assignment Operators | ✅      |
+| 2.10    | Relational Operators | ✅      |
+| 2.11    | Logical Operators    | ✅      |
+| 2.12.1  | If Else              | ✅      |
+| 2.12.2  | If Else If           | ✅      |
+| 2.13    | Ternary              | ✅      |
+| 2.14    | Switch Statement     | ✅      |
 
 I will continue updating this repository as I progress through the course.
 
@@ -59,3 +65,4 @@ The goal of this repository is to:
 ## Author
 
 **Ashish Nehe**
+
