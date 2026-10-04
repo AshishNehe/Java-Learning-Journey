@@ -91,6 +91,30 @@ I am following the **Telusko Java course** and using this repository to keep tra
 | 12.4    | Final Keyword                             | ✅      |
 | 12.5    | Object Class, equals, toString & hashCode | ✅      |
 | 12.6    | Upcasting and Downcasting                 | ✅      |
+| 13.1 | Abstract Keyword | ✅ |
+| 13.2 | Inner Class | ✅ |
+| 13.3 | Anonymous Inner Class | ✅ |
+| 13.4 | Abstract and Anonymous Inner Class | ✅ |
+| 14.1 | Need of Interface | ✅ |
+| 14.2 | What is Interface | ✅ |
+| 14.3 | More on Interfaces | ✅ |
+| 15.1 | What is Enum | ✅ |
+| 15.2 | Enum, if and switch | ✅ |
+| 15.3 | Enum Class | ✅ |
+| 16.1 | What is Annotations | ✅ |
+| 17.1 | Functional Interface | ✅ |
+| 17.2 | Lambda Expression | ✅ |
+| 17.3 | Lambda Expression with Return Statement | ✅ |
+| 17.4 | Types of Interface | ✅ |
+| 18.1 | What is Exception | ✅ |
+| 18.2 | Exception Handling with Try Catch | ✅ |
+| 18.4 | Try with Multiple Catch Block | ✅ |
+| 18.5 | Exception Hierarchy | ✅ |
+| 18.6 | Exception Throw Keyword | ✅ |
+| 18.7 | Custom Exception | ✅ |
+| 18.8 | Declaring Exception using throws | ✅ |
+| 18.9 | User Input using BufferedReader | ✅ |
+| 18.10 | Try with Resources | ✅ |
 
 I will continue updating this repository as I progress through the course.
 
