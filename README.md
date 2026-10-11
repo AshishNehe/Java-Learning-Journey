@@ -115,6 +115,12 @@ I am following the **Telusko Java course** and using this repository to keep tra
 | 18.8 | Declaring Exception using throws | ✅ |
 | 18.9 | User Input using BufferedReader | ✅ |
 | 18.10 | Try with Resources | ✅ |
+| 19.1    | Threads                                   | ✅      |
+| 19.2    | Multiple Threads                          | ✅      |
+| 19.3    | Thread Priority and Sleep                 | ✅      |
+| 19.4    | Runnable vs Thread                        | ✅      |
+| 19.5    | Race Condition                            | ✅      |
+| 19.6    | Thread States                             | ✅      |
 
 I will continue updating this repository as I progress through the course.
 
