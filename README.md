@@ -121,7 +121,16 @@ I am following the **Telusko Java course** and using this repository to keep tra
 | 19.4    | Runnable vs Thread                        | ✅      |
 | 19.5    | Race Condition                            | ✅      |
 | 19.6    | Thread States                             | ✅      |
-
+| 20.1    | Collection API                            | ✅      |
+| 20.2    | ArrayList                                 | ✅      |
+| 20.3    | Sets                                      | ✅      |
+| 20.4    | Map                                       | ✅      |
+| 20.5    | Comparator vs Comparable                  | ✅      |
+| 22.1    | Need of Stream API                        | ✅      |
+| 22.2    | forEach Method                            | ✅      |
+| 22.3    | Stream API                                | ✅      |
+| 22.4    | Map, Filter, Reduce and Sorted            | ✅      |
+| 22.5    | Wrapper Class                             | ✅      |
 I will continue updating this repository as I progress through the course.
 
 ## Purpose
